@@ -1,0 +1,11 @@
+/Users/ivanpachon/Documents/RUST/Rust_solutions/echor/target/debug/deps/assert_cmd-ab40a6ca4a54e5eb.rmeta: /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/lib.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/assert.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/cargo.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/cmd.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/output.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/color.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/../README.md
+
+/Users/ivanpachon/Documents/RUST/Rust_solutions/echor/target/debug/deps/assert_cmd-ab40a6ca4a54e5eb.d: /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/lib.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/assert.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/cargo.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/cmd.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/output.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/color.rs /Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/../README.md
+
+/Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/lib.rs:
+/Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/assert.rs:
+/Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/cargo.rs:
+/Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/cmd.rs:
+/Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/output.rs:
+/Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/color.rs:
+/Users/ivanpachon/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.8/src/../README.md:
